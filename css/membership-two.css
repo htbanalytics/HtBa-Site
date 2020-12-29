@@ -2124,6 +2124,11 @@ html.w-mod-js *[data-ix="black-tooltip-initial"] {
   .benefits-section {
     padding-top: 30px;
   }
+
+.results-section {
+  padding-top: 30px;
+}
+
   .testimonials-section {
     padding-top: 30px;
   }
@@ -2282,4 +2287,16 @@ html.w-mod-js *[data-ix="black-tooltip-initial"] {
  display: inline-block;
  font-size: 16px;
  size: auto;
+}
+
+.bet-results {
+  text-align: center;
+  font-size: 19px;
+  padding-left: 20px;
+  width: 900px;
+  overflow-y: scroll;
+  height: 295px;
+  display: flex;
+  box-align: center;
+  border-spacing: 200, 4;
 }
